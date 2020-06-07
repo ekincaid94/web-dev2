@@ -1,0 +1,33 @@
+#{extends 'main.html' /}
+#{set title:'Admin' /}
+
+<section class="ui raised segment">
+    <header class="ui header">
+        Assessment History
+    </header>
+    <table class="ui fixed table">
+        <thead>
+        <tr>
+            <th>Id</th>
+            <th>Assessment</th>
+        </tr>
+        </thead>
+        <tbody>
+        <div class="ui bulleted list">
+        #{list items:assessment, as:'assessment'}
+            <tr>
+                <td> ${assessment.id} </td>
+                <td> ${assessment.weight} </td>
+                <td> ${assessment.chest} </td>
+                <td> ${assessment.thigh} </td>
+                <td> ${assessment.upperArm} </td>
+                <td> ${assessment.waist} </td>
+                <td> ${assessment.hips} </td>
+            </tr>
+        #{/list}
+        </div>
+        </tbody>
+        </div>
+    </table>
+
+</section>

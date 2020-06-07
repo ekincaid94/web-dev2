@@ -1,0 +1,48 @@
+Assessment(a1):
+ weight: 123.3
+ chest: 45.0
+ thigh: 12.5
+ upperArm: 23.3
+ waist: 32.0
+ hips: 38.0
+Assessment(a2):
+ weight: 123.3
+ chest: 45.0
+ thigh: 12.0
+ upperArm: 23.3
+ waist: 31.0
+ hips: 36.0
+Member(m1):
+ firstname: Homer
+ lastname: Simpson
+ email: homer@simpson.com
+ password: secret
+ address: 15 Railway Place
+ gender: male
+ height: 172
+ startingWeight: 79
+ assessments:
+  - a1
+  - a2
+Member(m2):
+ firstname: Bart
+ lastname: Simpson
+ email: bart@simpson.com
+ password: secret
+ address: 15 Railway Place
+ gender: male
+ height: 172
+ startingWeight: 55
+ assessments:
+Trainer(t1):
+  firstname: Emma
+  lastname: Kincaid
+  email: emma@kincaid.com
+  password: secret
+
+
+
+
+
+
+

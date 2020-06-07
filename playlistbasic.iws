@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="638d6c9e-50c8-4a22-92bd-03ca6b17a383" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cH5Ne1tviJSCnTsvTstDgsWRzy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="638d6c9e-50c8-4a22-92bd-03ca6b17a383" name="Default Changelist" comment="" />
+      <created>1590172639769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590172639769</updated>
+      <workItem from="1590172641965" duration="2789000" />
+      <workItem from="1590175506917" duration="3250000" />
+      <workItem from="1590238889855" duration="13241000" />
+      <workItem from="1590252378419" duration="113000" />
+      <workItem from="1590252528840" duration="3915000" />
+      <workItem from="1590313075904" duration="4560000" />
+      <workItem from="1590320519880" duration="1312000" />
+      <workItem from="1590338320086" duration="242000" />
+      <workItem from="1590919120184" duration="11270000" />
+      <workItem from="1591179706615" duration="647000" />
+      <workItem from="1591181220205" duration="32837000" />
+      <workItem from="1591286590643" duration="47000" />
+      <workItem from="1591367869376" duration="2486000" />
+      <workItem from="1591469248330" duration="9529000" />
+      <workItem from="1591507410719" duration="206000" />
+      <workItem from="1591512050887" duration="8755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1590172884343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1590172884343" />
+    <state x="447" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590316790799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1590316790799" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1591507597227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591507597227" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1591507599143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591507599143" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591477272815">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1591477272815" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1591212149144">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1591212149144" />
+  </component>
+</project>

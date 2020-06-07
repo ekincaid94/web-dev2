@@ -1,0 +1,11 @@
+#{extends 'main.html' /}
+#{set title:'memberList' /}
+
+#{menu id:"dashboard"/}
+
+<section class="ui segment">
+    <h2 class="ui header">
+    ${member.firstname} ${member.lastname}
+    </h2>
+#{listassessments member:member /}
+</section>

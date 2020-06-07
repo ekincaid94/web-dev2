@@ -1,0 +1,61 @@
+#{extends 'main.html' /}
+#{set title:'User' /}
+
+#{menu id:"user"/}
+
+
+
+
+
+<table class="ui fixed table" action="/user/addMember" method="POST">
+    <thead>
+    User Details
+    </thead>
+    </header>
+    <head>
+        <tr>
+            <th>first name</th>
+            <th>last name</th>
+            <th>email</th>
+            <th>password</th>
+            <th>address</th>
+            <th>gender</th>
+            <th>height</th>
+            <th>weight</th>
+
+        </tr>
+    </head>
+    </div>
+
+#{list items:member, as:'member'}
+    <td>
+    ${member.firstname}
+    </td>
+    <td>
+    ${member.secondname}
+    </td>
+    <td>
+    ${member.email}
+    </td>
+    <td>
+    ${member.password}
+    </td>
+    <td>
+    ${member.address}
+    </td>
+    <td>
+    ${member.gender}
+    </td>
+    <td>
+    ${member.weight}
+    </td>
+    <td>
+
+    </td>
+    <td> <a href="/dashboard/${member.id}/deleteAssessment/${assessment.id} " class="ui tiny red button"> Delete </a> </td>
+    </tr>
+#{/list}
+    </tbody>
+</table>
+</section>
+
